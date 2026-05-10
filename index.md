@@ -4,11 +4,7 @@ title: Barbara Cervone
 
 # Barbara Cervone
 
-Educator, author, and advocate for youth voice.
-
 <img src="assets/img/barbara-cervone.JPG" alt="Barbara Cervone" width="240" style="float: right; margin: 0 0 1em 1.5em; border-radius: 4px;" />
-
----
 
 Barbara Cervone is a lifelong leader in progressive education, advancing schools where students are deeply known, actively engaged, and treated as creators of knowledge rather than passive recipients. Through her work founding schools, directing large-scale reform efforts, and publishing books co-authored with students, she has spent five decades elevating youth voice and reimagining what learning can look like.
 

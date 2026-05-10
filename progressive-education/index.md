@@ -4,9 +4,6 @@ title: Progressive Education
 
 # A Chronicle of the Progressive Schools Movement (1970–2020)
 
-*Centering student voice, real-world learning, and strong relationships.*
-
-
 ## Introduction
 
 Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — John Dewey's foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable.
