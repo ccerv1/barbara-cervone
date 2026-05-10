@@ -4,9 +4,11 @@ title: Progressive Education
 
 # A Chronicle of the Progressive Schools Movement (1970–2020)
 
+For Barbara Cervone, progressive education means centering student voice, real-world learning, and strong relationships — prioritizing critical thinking, agency, and purpose over rote instruction. Her career has traced the arc of this movement: [founding alternative high schools](../work/) in the 1970s, supporting school innovation through the Rhode Island Foundation in the 1980s, coordinating the largest private investment in American public education in the 1990s, and creating [What Kids Can Do](https://www.whatkidscando.org) to elevate youth voice in the 2000s. What follows is a chronicle of the broader movement in which that work took shape.
+
 ## Introduction
 
-Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable. This page explores the major ideas, guiding figures, exemplars, and collaborative efforts that defined this remarkable half-century of progressive school innovation.
+Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable. This chronicle explores the major ideas, guiding figures, exemplars, and collaborative efforts that defined this remarkable half-century of progressive school innovation.
 
 ## Philosophical and Historical Roots (Pre-1970)
 
@@ -26,7 +28,7 @@ The 1970s marked a dynamic period for rethinking American public schools. Disill
 - **Schools Without Walls**: Urban initiatives allowed students to use the city as a "classroom," partnering with museums, workplaces, and local groups.
 - **Community Control Movements**: In districts like New York City's Ocean Hill–Brownsville, localized boards sought authority over schools, influencing how educators responded to community needs.
 
-Although policies still mandated certain frameworks, these locally driven and teacher-led reforms formed the nucleus of a larger movement that would champion democratic governance, relationship-building, and experiential learning.
+Although policies still mandated certain frameworks, these locally driven and teacher-led reforms formed the nucleus of a larger movement that would champion democratic governance, relationship-building, and experiential learning. Among those building this nucleus was Barbara Cervone, who founded a network of alternative high schools in eight states during this period, creating environments designed to better serve students who were not well served by traditional models.
 
 ## Core Principles of the 1970s–2020 Progressive Movement
 
@@ -194,6 +196,10 @@ In Chicago, the Small Schools Workshop (led by Michael Klonsky) provided technic
 - Organized local conferences and institutes
 - Helped develop research-practice relationships to study small-school outcomes
 
+### What Kids Can Do and Next Generation Press
+
+In 2001, Barbara Cervone founded [What Kids Can Do (WKCD)](https://www.whatkidscando.org), a national nonprofit dedicated to documenting and broadcasting the vision and power of young people — particularly those marginalized by poverty, race, and language. Through WKCD's publishing arm, [Next Generation Press](../work/), she produced more than 17 books co-authored with students, including the best-selling *Fires in the Bathroom* (The New Press, 2003). WKCD also launched international media projects in which youth in China, Eastern Europe, Ethiopia, India, and Tanzania documented their communities through photography and digital storytelling. Her later book with Kathleen Cushman, [*Belonging and Becoming*](https://www.hepg.org/hep-home/books/belonging-and-becoming) (Harvard Education Press, 2015), explored how social and emotional learning can transform high schools.
+
 ### Other Supportive Organizations
 
 - [**New Visions for Public Schools (NYC)**](https://www.newvisions.org/): Incubated new small schools; facilitated collaboration among educators.
@@ -204,7 +210,7 @@ In Chicago, the Small Schools Workshop (led by Michael Klonsky) provided technic
 
 ### Climate of Innovation
 
-Between 1990 and the early 2000s, philanthropic interest (e.g., Annenberg, Gates) and grassroots energy coalesced. Urban districts with high dropout rates or struggling achievement looked to innovative, small-school models for solutions.
+Between 1990 and the early 2000s, philanthropic interest and grassroots energy coalesced. Urban districts with high dropout rates or struggling achievement looked to innovative, small-school models for solutions. The most ambitious effort was Walter H. Annenberg's $500 million Challenge to reform American public education — the largest private initiative of its kind. From 1994 to 2000, Barbara Cervone served as its national coordinator, overseeing large-scale reform in the country's ten largest school districts, leading a national initiative connecting rural schools with their communities, and managing a combined budget of $1.5 billion including matching funds. Alongside Annenberg, the Gates Foundation and other philanthropies further accelerated the movement.
 
 ### Major Conferences and Convenings
 
