@@ -6,7 +6,7 @@ title: Personal Writing
 
 ## Postcards from the Rogue Valley
 
-Since moving from Brooklyn to Ashland, Oregon in 2018, Barbara has written more than 200 essays on life in Southern Oregon — nature and wildlife, community, education, climate, local politics, and more. A selection of the best collected stories and photos was published as a book by Next Generation Press in 2021.
+Since moving from Brooklyn to Ashland, Oregon in 2018, Barbara has written more than 200 essays on life in Southern Oregon — nature and wildlife, community, education, climate, local politics, and more. A selection of the best collected stories and photos was published as a book: [*Postcards from the Rogue Valley*](https://www.postcards-from-the-rogue-valley.blog/1523-2/) (Next Generation Press, 2021).
 
 Visit the full blog: [postcards-from-the-rogue-valley.blog](https://www.postcards-from-the-rogue-valley.blog/)
 
