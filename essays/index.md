@@ -1,8 +1,8 @@
 ---
-title: Writing
+title: Personal Writing
 ---
 
-# Writing
+# Personal Writing
 
 ---
 
