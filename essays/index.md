@@ -1,8 +1,8 @@
 ---
-title: Essays & Speeches
+title: Writing
 ---
 
-# Essays & Speeches
+# Writing
 
 ---
 
