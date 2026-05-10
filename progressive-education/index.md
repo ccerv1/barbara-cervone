@@ -6,249 +6,105 @@ title: Progressive Education
 
 For Barbara Cervone, progressive education means centering student voice, real-world learning, and strong relationships — prioritizing critical thinking, agency, and purpose over rote instruction. Her career has traced the arc of this movement: [founding alternative high schools](../work/) in the 1970s, supporting school innovation through the Rhode Island Foundation in the 1980s, coordinating the largest private investment in American public education in the 1990s, and creating [What Kids Can Do](https://www.whatkidscando.org) to elevate youth voice in the 2000s. What follows is a chronicle of the broader movement in which that work took shape.
 
-## Introduction
+Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable.
 
-Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)'s foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable. This chronicle explores the major ideas, guiding figures, exemplars, and collaborative efforts that defined this remarkable half-century of progressive school innovation.
+## Where It Came From
 
-## Philosophical and Historical Roots (Pre-1970)
+The intellectual lineage of progressive schools extends back to the late 19th and early 20th centuries. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) (1859–1952) is often considered the founder of American progressive education, championing democratic learning environments and hands-on, experiential curricula. Yet Dewey was far from alone. [Francis Parker](https://en.wikipedia.org/wiki/Francis_W._Parker_(educator)), called the "father of progressive education" before Dewey, pioneered child-centered instruction in the late 1800s. [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori) and [Rudolf Steiner](https://en.wikipedia.org/wiki/Waldorf_education) shaped alternatives to conventional pedagogy from Italy and Germany. And [Paulo Freire](https://en.wikipedia.org/wiki/Paulo_Freire)'s [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) (1968) introduced critical, dialogic frameworks that resonated deeply with social justice–minded American educators.
 
-While this chronicle focuses on 1970–2020, the intellectual lineage of progressive schools extends back to the late 19th and early 20th centuries. [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) (1859–1952) is often considered the founder of American progressive education, championing democratic learning environments and hands-on, experiential curricula. Yet Dewey was far from alone in shaping these ideas:
+By the 1960s, the Civil Rights Movement and countercultural currents fueled renewed interest in schools as sites of social transformation. Grassroots "freedom schools" emerged in the South, while experimental "free schools" appeared in multiple regions. Though many were short-lived, they provided the seeds for a new generation of public-school innovators.
 
-- [**Francis Parker**](https://en.wikipedia.org/wiki/Francis_W._Parker_(educator)): Called the "father of progressive education" before Dewey, he pioneered child-centered instruction in the late 1800s.
-- [**Maria Montessori**](https://en.wikipedia.org/wiki/Maria_Montessori) (Italy) and [**Rudolf Steiner**](https://en.wikipedia.org/wiki/Waldorf_education) (Germany): Their approaches influenced American educators seeking alternatives to conventional pedagogy.
-- [**Paulo Freire**](https://en.wikipedia.org/wiki/Paulo_Freire): His work in Brazil, notably [*Pedagogy of the Oppressed*](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed) (1968), introduced critical, dialogic frameworks that resonated with social justice–minded U.S. educators.
+## A New Wave: The 1970s
 
-By the 1960s, the Civil Rights Movement and countercultural currents fueled renewed interest in schools as sites of social transformation. Grassroots "freedom schools" emerged in the South, while experimental "free schools" appeared in multiple regions. Though many of these were short-lived, they provided the seeds for a new generation of public-school innovators who would shape the progressive schools movement of the 1970s and beyond.
+The 1970s marked a dynamic period for rethinking American public schools. Disillusionment with rigid, bureaucratic curricula and a desire for more human-scale institutions led pioneering educators to create small, alternative schools within — or adjacent to — traditional public systems.
 
-## A New Progressive Wave: 1970–1979
+**Open Classrooms** reorganized physical spaces to encourage collaborative, free-form learning rather than desk-bound rows. **Schools Without Walls** allowed students to use the city as a classroom, partnering with museums, workplaces, and local groups. **Community Control Movements**, like those in New York City's Ocean Hill–Brownsville, gave localized boards authority over schools, influencing how educators responded to community needs.
 
-The 1970s marked a dynamic period for rethinking American public schools. Disillusionment with rigid, bureaucratic curricula and a desire for more human-scale institutions led pioneering educators to create small, alternative schools within — or adjacent to — traditional public systems. Early experiments included:
+These locally driven, teacher-led reforms formed the nucleus of a larger movement. Among those building this nucleus was Barbara Cervone, who founded a network of alternative high schools in eight states during this period, creating environments designed to better serve students who were not well served by traditional models.
 
-- **Open Classrooms**: Teachers reorganized physical spaces to encourage collaborative, free-form learning rather than desk-bound rows.
-- **Schools Without Walls**: Urban initiatives allowed students to use the city as a "classroom," partnering with museums, workplaces, and local groups.
-- **Community Control Movements**: In districts like New York City's Ocean Hill–Brownsville, localized boards sought authority over schools, influencing how educators responded to community needs.
+## What These Schools Believed
 
-Although policies still mandated certain frameworks, these locally driven and teacher-led reforms formed the nucleus of a larger movement that would champion democratic governance, relationship-building, and experiential learning. Among those building this nucleus was Barbara Cervone, who founded a network of alternative high schools in eight states during this period, creating environments designed to better serve students who were not well served by traditional models.
+Across five decades, the movement's schools shared a set of core commitments — even when they looked very different from one another.
 
-## Core Principles of the 1970s–2020 Progressive Movement
+**Small, community-centered schools.** Progressive reformers believed that large, impersonal schools undermine meaningful relationships. Small schools — often enrolling a few hundred students — could promote close teacher-student bonds, create individualized programs, and engage families in genuine collaboration.
 
-### Small, Community-Centered Schools
+**Democratic and student-centered learning.** Building on Dewey's vision, these schools emphasized shared governance. Teachers, students, and parents collaborated in decisions about curriculum, assessment, and daily operations — through weekly community meetings, student committees, and teacher autonomy over what happened in the classroom.
 
-Progressive reformers widely believed that large, impersonal schools undermine meaningful relationships. By contrast, small schools — often enrolling a few hundred students — could better:
+**Relationships as a cornerstone.** In lieu of the "sage on the stage" model, progressive educators nurtured close relationships through advisory systems that paired small groups of students with a dedicated faculty advisor for multiple years, one-on-one conferencing focused on academic and social-emotional growth, and team teaching that modeled cooperative learning for students.
 
-- Promote close teacher-student bonds
-- Create individualized programs responsive to student needs
-- Engage families and local organizations in genuine collaboration
+**Project-based and experiential learning.** These schools moved away from memorization and standardized testing, favoring hands-on, interdisciplinary projects. Students explored local environmental or social issues, engaged in real-world problem-solving through community partnerships, and presented portfolio exhibitions showcasing their mastery over time.
 
-### Democratic and Student-Centered Learning
+**Equity and social justice.** While some early progressive schools served predominantly white, middle-class populations, by the 1980s and 1990s there was a deliberate shift toward serving marginalized communities — emphasizing culturally responsive curricula, addressing power and privilege in the classroom, and developing leadership pathways for educators of color.
 
-Building on Dewey's vision, these schools emphasized democratic governance. Teachers, students, and parents often collaborated in decisions about curriculum, assessment, and daily operations. Common practices included:
-
-- Weekly community meetings or assemblies
-- Student committees tackling discipline or budgeting
-- Teacher autonomy over curriculum development
-
-### Teacher-Student Relationships as a Cornerstone
-
-In lieu of the "sage on the stage" model, progressive educators sought to nurture close relationships through:
-
-- **Advisory systems**, pairing a small group of students with a dedicated faculty advisor for multiple years
-- **One-on-one conferencing**, focusing on academic and social-emotional growth
-- **Team teaching**, cultivating collaboration among staff and modeling cooperative learning for students
-
-### Project-Based and Experiential Learning
-
-Progressive schools moved away from memorization and standardized testing, favoring hands-on, interdisciplinary projects. Students might:
-
-- Explore local environmental or social issues, merging science, humanities, and civic engagement
-- Engage in real-world problem-solving through community partnerships
-- Present portfolio exhibitions showcasing their mastery over time
-
-### Equity and Social Justice
-
-While some early progressive schools served predominantly white, middle-class populations, by the 1980s and 1990s there was a deliberate shift toward serving marginalized communities. These efforts included:
-
-- Emphasizing culturally responsive curricula and staff diversity
-- Addressing power, privilege, and history in the classroom
-- Developing leadership pathways for educators of color
-
-## Thought Leaders and Their Contributions
+## The People Who Led It
 
 ### Deborah Meier
 
-A champion of child-centered, inquiry-based learning, [Deborah Meier](https://en.wikipedia.org/wiki/Deborah_Meier) founded [Central Park East Elementary School](https://en.wikipedia.org/wiki/Central_Park_East) in East Harlem in 1974. Her landmark book, [*The Power of Their Ideas*](https://en.wikipedia.org/wiki/The_Power_of_Their_Ideas) (1995), illustrates:
-
-- Portfolio-based assessments and authentic evaluation
-- Family and community engagement in school governance
-- The impact of teacher autonomy on curriculum innovation
-
-Meier later established the [Mission Hill School](https://en.wikipedia.org/wiki/Mission_Hill_School) in Boston, continuing her focus on multi-grade classrooms and democratic structures, further cementing her as a leading voice in small-school reform.
+A champion of child-centered, inquiry-based learning, [Deborah Meier](https://en.wikipedia.org/wiki/Deborah_Meier) founded [Central Park East Elementary School](https://en.wikipedia.org/wiki/Central_Park_East) in East Harlem in 1974. Her landmark book, [*The Power of Their Ideas*](https://en.wikipedia.org/wiki/The_Power_of_Their_Ideas) (1995), illustrates how portfolio-based assessments, family engagement in school governance, and teacher autonomy can transform a school. She later established the [Mission Hill School](https://en.wikipedia.org/wiki/Mission_Hill_School) in Boston, continuing her focus on multi-grade classrooms and democratic structures.
 
 ### Ted Sizer
 
-[Theodore "Ted" Sizer](https://en.wikipedia.org/wiki/Theodore_Sizer) (former dean at Harvard Graduate School of Education) wrote [*Horace's Compromise*](https://en.wikipedia.org/wiki/Horace%27s_Compromise) (1984), criticizing American high schools for being impersonal and compliance-driven. He subsequently founded the [Coalition of Essential Schools (CES)](https://en.wikipedia.org/wiki/Coalition_of_Essential_Schools), based on 10 Common Principles that championed depth over breadth, personalization, and democratic practice. CES became a nationwide network that connected schools committed to these principles.
+[Theodore "Ted" Sizer](https://en.wikipedia.org/wiki/Theodore_Sizer), former dean at Harvard Graduate School of Education, wrote [*Horace's Compromise*](https://en.wikipedia.org/wiki/Horace%27s_Compromise) (1984), criticizing American high schools for being impersonal and compliance-driven. He founded the [Coalition of Essential Schools (CES)](https://en.wikipedia.org/wiki/Coalition_of_Essential_Schools), a nationwide network based on 10 Common Principles that championed depth over breadth, personalization, and democratic practice.
 
 ### Dennis Littky
 
-In the 1990s, [Dennis Littky](https://en.wikipedia.org/wiki/Dennis_Littky) (with Elliot Washor) co-founded [The Met School](https://en.wikipedia.org/wiki/The_Met_School) in Providence, RI, developing the [Big Picture Learning](https://www.bigpicture.org/) network. Littky's model emphasized:
+In the 1990s, [Dennis Littky](https://en.wikipedia.org/wiki/Dennis_Littky) and Elliot Washor co-founded [The Met School](https://en.wikipedia.org/wiki/The_Met_School) in Providence, RI, developing the [Big Picture Learning](https://www.bigpicture.org/) network. Littky's model — interest-driven internships, small advisory groups, public exhibitions as assessment — illustrated how deeply personalized learning can thrive within a public-school context.
 
-- Interest-driven internships, engaging students in real-world settings
-- Advisory groups (15 students per advisor, four-year cycle)
-- Public exhibitions as a key form of assessment
+### And Many Others
 
-His approach illustrated how personalized learning can thrive within a public-school context.
+George Wood, an early Coalition of Essential Schools member, advocated teacher leadership and democratic governance. Linda Nathan, founding headmaster of the [Boston Arts Academy](https://en.wikipedia.org/wiki/Boston_Arts_Academy), integrated progressive pedagogy with the arts. [Michelle Fine](https://en.wikipedia.org/wiki/Michelle_Fine) centered equity and student voice in her research on participatory action with urban youth. Michael Klonsky led the Small Schools Workshop in Chicago, guiding the conversion of large high schools into more intimate units. These figures, alongside countless teacher-activists, formed the grassroots engine that kept progressive ideals alive and evolving.
 
-### Additional Influencers and Unsung Heroes
+## Schools That Showed It Could Work
 
-- **George Wood**: Early Coalition of Essential Schools member, advocated teacher leadership and democratic governance.
-- **Linda Nathan**: Founding headmaster of the [Boston Arts Academy](https://en.wikipedia.org/wiki/Boston_Arts_Academy); integrated progressive pedagogy with the arts.
-- [**Michelle Fine**](https://en.wikipedia.org/wiki/Michelle_Fine): A researcher focusing on participatory action with urban youth, centering equity and student voice.
-- **Michael Klonsky**: Led the Small Schools Workshop in Chicago, offering guidance for reconfiguring large high schools into more intimate units.
+[**Central Park East**](https://en.wikipedia.org/wiki/Central_Park_East) sparked national attention by succeeding in a low-income, urban district historically characterized by high dropout rates. Collaborative teacher teams designed curriculum without standardized scripts. Performance-based assessments replaced traditional testing. Leadership was often shared or rotated. High graduation rates, high college attendance, and strong family-community ties fueled the replication of "East Harlem small schools."
 
-These figures, alongside countless teacher-activists, formed the grassroots engine that kept progressive ideals alive and evolving.
+The [**Coalition of Essential Schools**](https://en.wikipedia.org/wiki/Coalition_of_Essential_Schools), formed in 1984, united schools — urban, suburban, and rural — under principles like "Less Is More" and "Student-as-Worker, Teacher-as-Coach." Its annual Fall Forums drew thousands of educators to share strategies and research.
 
-## Case Studies of Progressive Practice
+At [**The Met**](https://en.wikipedia.org/wiki/The_Met_School) in Providence, students devoted two days a week to internships aligned with personal passions, participated in advisories, and presented portfolio-based exhibitions. [Big Picture Learning](https://www.bigpicture.org/) expanded the model globally.
 
-### Central Park East Schools (New York City)
+[**Mission Hill School**](https://en.wikipedia.org/wiki/Mission_Hill_School) in Boston featured child-centered inquiry with thematic units shaped by student interests, multi-grade classrooms, and collective decision-making involving teachers, families, and students.
 
-Founded by Deborah Meier, [Central Park East](https://en.wikipedia.org/wiki/Central_Park_East) sparked national attention by succeeding in a low-income, urban district historically characterized by high dropout rates. Key takeaways:
+Other exemplars included [Urban Academy](https://en.wikipedia.org/wiki/Urban_Academy) in New York (portfolio-based graduation, waived from most Regents exams), [High Tech High](https://en.wikipedia.org/wiki/High_Tech_High) in San Diego (project-based learning meets design thinking), and the [Internationals Network](https://www.internationalsnetwork.org/) (small schools for newly arrived immigrants built around real-world learning).
 
-- Collaborative teacher teams designing curriculum without a standardized script
-- Performance-based assessments (portfolios, projects, exhibitions)
-- Collective leadership, often involving rotating or shared administrative roles
+## The Networks Behind the Schools
 
-High graduation rates, high college attendance, and strong family-community ties fueled the replication of "East Harlem small schools."
+Teacher-led initiatives underpinned the movement. Teacher Inquiry Groups and regional workshops helped educators share successes, troubleshoot, and build partnerships. These decentralized, peer-driven structures sustained reform on the ground.
 
-### The Coalition of Essential Schools (Nationwide)
+Philanthropy played an amplifying role. Grants from Annenberg, Gates, and other foundations helped schools pilot new designs, invest in professional development, and document what worked.
 
-Ted Sizer's [CES](https://en.wikipedia.org/wiki/Coalition_of_Essential_Schools), formed in 1984, rapidly expanded, uniting schools under principles like "Less Is More" (fewer subjects, studied in greater depth) and "Student-as-Worker, Teacher-as-Coach." Essential Schools were diverse — urban, suburban, rural — but all committed to:
+Regional hubs kept the energy concentrated. New York City's District 4 in East Harlem incubated numerous small schools. Chicago hosted a strong small-schools movement supported by local universities. The Bay Area School Reform Collaborative linked progressive educators across Northern California. Boston developed pilot schools with district-approved autonomy.
 
-- Personalization so each student is well-known by an adult
-- Emphasis on critical thinking over rote memorization
-- Annual Fall Forums, where educators shared strategies and research
+## Organizations That Carried the Work
 
-### Big Picture Learning and The Met (Providence, RI)
+Founded by Milwaukee public-school teachers, [**Rethinking Schools**](https://rethinkingschools.org/) became a magazine and publishing house promoting social justice education — teacher-authored articles, lesson plans addressing race and class, and advocacy for grassroots reform.
 
-Dennis Littky and Elliot Washor opened [The Met](https://en.wikipedia.org/wiki/The_Met_School) in 1996, operationalizing their vision of student-centered, interest-driven high schools. Notable features:
+[**Edutopia**](https://www.edutopia.org/), backed by the George Lucas Educational Foundation, showcased innovative schools via video and online resources, introducing progressive concepts to a broad audience.
 
-- Students devote two days a week to internships, aligning with personal passions
-- Advisories guide students academically and socio-emotionally
-- Portfolio-based exhibitions, fostering reflection and communication
+The **Small Schools Workshop** in Chicago, led by Michael Klonsky, provided technical assistance for converting large schools into smaller units, alongside governance training and local conferences.
 
-[Big Picture Learning](https://www.bigpicture.org/) expanded globally, demonstrating the replicability of personalized internships.
+In 2001, Barbara Cervone founded [**What Kids Can Do (WKCD)**](https://www.whatkidscando.org), a national nonprofit dedicated to documenting the vision and power of young people — particularly those marginalized by poverty, race, and language. Through WKCD's publishing arm, [Next Generation Press](../work/), she produced more than 17 books co-authored with students, including the best-selling *Fires in the Bathroom* (The New Press, 2003). WKCD also launched international media projects in which youth in China, Eastern Europe, Ethiopia, India, and Tanzania documented their communities through photography and digital storytelling. Her later book with Kathleen Cushman, [*Belonging and Becoming*](https://www.hepg.org/hep-home/books/belonging-and-becoming) (Harvard Education Press, 2015), explored how social and emotional learning can transform high schools.
 
-### Mission Hill School (Boston)
+Other organizations that carried the work forward included [New Visions for Public Schools](https://www.newvisions.org/) in New York, the [National Writing Project](https://www.nwp.org/), and the [Internationals Network](https://www.internationalsnetwork.org/).
 
-Another Meier-led initiative, [Mission Hill](https://en.wikipedia.org/wiki/Mission_Hill_School) features:
+## Peak Momentum: The 1990s and Early 2000s
 
-- Child-centered inquiry, with thematic units shaped by student interests
-- Multi-grade classrooms encouraging longer teacher-student relationships
-- Collective decision-making (teachers, families, and students in governance)
+Between 1990 and the early 2000s, philanthropic interest and grassroots energy coalesced. Urban districts with high dropout rates looked to innovative, small-school models for solutions. The most ambitious effort was Walter H. Annenberg's $500 million Challenge to reform American public education — the largest private initiative of its kind. From 1994 to 2000, Barbara Cervone served as its national coordinator, overseeing large-scale reform in the country's ten largest school districts, leading a national initiative connecting rural schools with their communities, and managing a combined budget of $1.5 billion including matching funds. Alongside Annenberg, the Gates Foundation and other philanthropies further accelerated the movement.
 
-### Other Exemplars and Offshoots
+The CES Fall Forum drew thousands of educators each year. Widely publicized successes — Central Park East, The Met — helped shift public perception of progressive methods from "alternative" to viable. Media profiles highlighted improved engagement, college acceptance rates, and positive community relationships.
 
-- [**Urban Academy (NYC)**](https://en.wikipedia.org/wiki/Urban_Academy): Portfolio-based graduation requirements; waived from most Regents exams.
-- **Francisco Bravo Medical Magnet (Los Angeles)**: Progressive structures in a STEM-focused curriculum.
-- [**High Tech High (San Diego)**](https://en.wikipedia.org/wiki/High_Tech_High): Founded in 2000, melding project-based learning, design thinking, and teacher leadership.
+## What Got in the Way
 
-## Networks and Collaborations
+The movement faced real headwinds. Rising test-based accountability in the 2000s clashed directly with the performance-based, qualitative assessments that progressive schools championed. Small schools often relied on grant funding, and when grants ended, maintaining staffing and programming became a struggle. District bureaucracies could limit scheduling autonomy, curtailing the very practices that made these schools distinctive.
 
-### Grassroots Teacher Networks
+Questions of equity ran through the movement's history. Early iterations were criticized for insufficient attention to racial justice and cultural relevance. Over time, more educators of color emerged as leaders, though disparities persisted.
 
-Teacher-led initiatives underpinned the progressive movement. Teacher Inquiry Groups and regional workshops helped educators share successes, troubleshoot, and build new partnerships. These decentralized, peer-driven structures sustained reform on the ground.
+And there was competition for attention. The growth of charter schools and corporate-driven reforms overshadowed progressive approaches — even though some charters embraced progressive designs. Despite these challenges, many progressive schools adapted, merging district requirements with innovative practices like portfolios and advisories.
 
-### Philanthropic Catalysts and Resource-Sharing
+## What Endures
 
-Although not always explicitly "progressive," grants from Annenberg, Gates, and other foundations empowered schools to:
+Even as the "golden era" waned in the late 2000s, the movement left an indelible mark. Student-centered learning is now a staple in education discourse. Distributed leadership — teachers as co-leaders — is increasingly common. Professional learning communities, originally a cornerstone of progressive practice, are widely adopted in mainstream schools. Networks like [Big Picture Learning](https://www.bigpicture.org/) continue to prove the viability of alternative models.
 
-- Pilot small-school designs
-- Invest in professional development (e.g., training in project-based learning)
-- Disseminate documentation of effective approaches
-
-These resources amplified the impact of grassroots teachers and local innovators.
-
-### Regional Hubs of Innovation
-
-- **New York City's District 4 (East Harlem)**: Incubated numerous small, innovative schools.
-- **Chicago**: Hosted a strong small-schools movement, supported by local universities and teacher organizations.
-- **Bay Area School Reform Collaborative (BASRC)**: Linked progressive educators in Northern California, focusing on equity.
-- **Boston**: Developed pilot schools with district-approved autonomy, merging progressive ideas with local control.
-
-## Institutions, Nonprofits, and Publications
-
-### Rethinking Schools
-
-Founded by Milwaukee public-school teachers, [Rethinking Schools](https://rethinkingschools.org/) became both a magazine and publishing house promoting social justice education. Core contributions include:
-
-- Teacher-authored articles on critical pedagogy and practice
-- Lesson plans addressing race, class, gender, immigration, and climate justice
-- Advocacy for grassroots reform rather than corporate-driven approaches
-
-### Edutopia and The George Lucas Educational Foundation
-
-[Edutopia](https://www.edutopia.org/) emerged in the 1990s to showcase innovative schools via video and online resources. Its emphases — project-based learning, social-emotional learning, and technology integration — overlapped significantly with progressive ideals. Through case study videos and practitioner blogs, Edutopia introduced progressive concepts to a broad audience.
-
-### Small Schools Workshop and University Partnerships
-
-In Chicago, the Small Schools Workshop (led by Michael Klonsky) provided technical assistance for converting large schools into smaller "houses." Alongside university partnerships, it:
-
-- Offered governance training and consulting
-- Organized local conferences and institutes
-- Helped develop research-practice relationships to study small-school outcomes
-
-### What Kids Can Do and Next Generation Press
-
-In 2001, Barbara Cervone founded [What Kids Can Do (WKCD)](https://www.whatkidscando.org), a national nonprofit dedicated to documenting and broadcasting the vision and power of young people — particularly those marginalized by poverty, race, and language. Through WKCD's publishing arm, [Next Generation Press](../work/), she produced more than 17 books co-authored with students, including the best-selling *Fires in the Bathroom* (The New Press, 2003). WKCD also launched international media projects in which youth in China, Eastern Europe, Ethiopia, India, and Tanzania documented their communities through photography and digital storytelling. Her later book with Kathleen Cushman, [*Belonging and Becoming*](https://www.hepg.org/hep-home/books/belonging-and-becoming) (Harvard Education Press, 2015), explored how social and emotional learning can transform high schools.
-
-### Other Supportive Organizations
-
-- [**New Visions for Public Schools (NYC)**](https://www.newvisions.org/): Incubated new small schools; facilitated collaboration among educators.
-- [**National Writing Project**](https://www.nwp.org/): Though not strictly progressive, supported teacher leadership and student voice — key movement ideals.
-- [**Internationals Network**](https://www.internationalsnetwork.org/): Specialized in small, innovative schools for newly arrived immigrants, infusing project-based, real-world learning.
-
-## The Golden Era (1990s–Early 2000s): Peak Momentum
-
-### Climate of Innovation
-
-Between 1990 and the early 2000s, philanthropic interest and grassroots energy coalesced. Urban districts with high dropout rates or struggling achievement looked to innovative, small-school models for solutions. The most ambitious effort was Walter H. Annenberg's $500 million Challenge to reform American public education — the largest private initiative of its kind. From 1994 to 2000, Barbara Cervone served as its national coordinator, overseeing large-scale reform in the country's ten largest school districts, leading a national initiative connecting rural schools with their communities, and managing a combined budget of $1.5 billion including matching funds. Alongside Annenberg, the Gates Foundation and other philanthropies further accelerated the movement.
-
-### Major Conferences and Convenings
-
-- **CES Fall Forum**: Drew thousands of educators, hosting workshops, panels, and showcases of student work.
-- **Local institutes**: Teacher-driven gatherings to refine project-based learning, advisories, and performance assessments.
-
-### Shifting Public Perception
-
-While many viewed progressive methods as "alternative," widely publicized successes — like Central Park East and The Met — helped shift this image. Media profiles highlighted improved engagement, college acceptance rates, and positive community relationships.
-
-## Challenges, Critiques, and the Movement's Evolution
-
-1. **Conflict with Standardized Testing**: Rising test-based accountability in the 2000s clashed with performance-based, qualitative assessments championed by progressive schools.
-
-2. **Scaling and Sustainability**: Small schools often relied on grant funding; once that ended, maintaining staffing and programming was difficult. District bureaucracies could limit scheduling autonomy, curtailing progressive practices.
-
-3. **Equity and Inclusivity**: Early iterations were criticized for insufficient attention to racial justice and cultural relevance. Over time, more educators of color emerged as leaders, though disparities persisted in some areas.
-
-4. **Competing Reform Trends**: Growth of charter schools and other corporate-driven reforms overshadowed progressive approaches, though some charters embraced progressive designs.
-
-Despite these challenges, many progressive schools adapted, merging district requirements with innovative practices like portfolios or advisories.
-
-## Lasting Impact and Contemporary Relevance
-
-Even as the "golden era" waned in the late 2000s, the movement left an indelible mark:
-
-- **Student-Centered Learning**: Now a staple in education discourse, championed by teachers and administrators nationwide.
-- **Distributed Leadership**: Once revolutionary, the idea of teachers as co-leaders is increasingly common.
-- **Continued Small-School Initiatives**: Networks like [Big Picture Learning](https://www.bigpicture.org/) continue, proving the viability of alternative models.
-- **Professional Learning Communities**: Educator collaboration — originally a cornerstone of progressive practice — now widely adopted in mainstream schools.
-
-Calls for flexible, personalized, and community-driven schooling — especially in the wake of the COVID-19 pandemic — echo the core principles of the progressive reformers who shaped 1970–2020 education.
-
-## Conclusion
-
-From its early 1970s roots in small, radical experiments to its nationwide expansions in the 1990s and early 2000s, the modern progressive schools movement profoundly influenced how Americans think about teaching and learning. Leaders such as Deborah Meier, Ted Sizer, and Dennis Littky, backed by countless dedicated teachers, demonstrated that democratic, student-centered, community-embedded schools are both possible and powerful within the public system.
-
-Although rising tides of standardized testing and budget constraints challenged its spread, the movement's core pedagogical ideals — relationships, personalization, experiential inquiry — remain deeply relevant. Many teachers, schools, and networks still champion these ideas, ensuring the legacy of 1970–2020 endures. The movement thus stands as a living blueprint for educators and communities committed to forging more caring, rigorous, and equitable learning environments.
+Calls for flexible, personalized, and community-driven schooling — especially in the wake of the COVID-19 pandemic — echo the core principles of the progressive reformers who shaped this half-century. The movement's pedagogical ideals — relationships, personalization, experiential inquiry — remain a living blueprint for educators and communities committed to more caring, rigorous, and equitable learning environments.
 
 ### Further Reading
 
