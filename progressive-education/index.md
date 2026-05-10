@@ -2,7 +2,7 @@
 title: Progressive Education
 ---
 
-# A Chronicle of the Progressive Schools Movement (1970–2020)
+# Progressive Education: A Personal Chronicle
 
 For Barbara Cervone, progressive education means centering student voice, real-world learning, and strong relationships — prioritizing critical thinking, agency, and purpose over rote instruction. Her career has traced the arc of this movement: [founding alternative high schools](../work/) in the 1970s, supporting school innovation through the Rhode Island Foundation in the 1980s, coordinating the largest private investment in American public education in the 1990s, and creating [What Kids Can Do](https://www.whatkidscando.org) to elevate youth voice in the 2000s. What follows is a chronicle of the broader movement in which that work took shape.
 
