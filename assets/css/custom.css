@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --color-bg: #faf8f4;
+  --color-text: #2c2c2c;
+  --color-text-light: #6b6259;
+  --color-accent: #8b5e3c;
+  --color-accent-hover: #6d472d;
+  --color-link: #7a4f2e;
+  --color-link-hover: #5a3820;
+  --color-border: #e0d8ce;
+  --color-heading: #3a2f27;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
+  line-height: 1.75;
+}
+
+.markdown-body {
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--color-text);
+  max-width: 700px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans 3', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: var(--color-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.markdown-body h2 {
+  font-size: 1.4em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid var(--color-border);
+  margin-top: 2em;
+}
+
+.markdown-body h3 {
+  font-size: 1.15em;
+  margin-top: 1.5em;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  border-bottom-color: var(--color-link-hover);
+}
+
+.markdown-body a {
+  color: var(--color-link);
+}
+
+.markdown-body a:hover {
+  color: var(--color-link-hover);
+}
+
+/* Nav bar */
+.site-nav {
+  font-family: 'Source Sans 3', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9em;
+  color: var(--color-text-light);
+  padding-bottom: 0.75em;
+  margin-bottom: 1.5em;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.site-nav a {
+  color: var(--color-text-light);
+  border-bottom: none;
+}
+
+.site-nav a:hover {
+  color: var(--color-accent-hover);
+}
+
+.site-nav strong a {
+  color: var(--color-heading);
+}
+
+/* Horizontal rules */
+.markdown-body hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2em 0;
+}
+
+/* Block quotes */
+.markdown-body blockquote {
+  border-left: 3px solid var(--color-accent);
+  color: var(--color-text-light);
+  padding: 0.5em 1em;
+  font-style: italic;
+}
+
+/* Lists */
+.markdown-body ul, .markdown-body ol {
+  line-height: 1.7;
+}
+
+.markdown-body li + li {
+  margin-top: 0.35em;
+}
+
+/* Images */
+.markdown-body img {
+  border-radius: 4px;
+}
+
+/* Emphasis in body text */
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+  color: var(--color-heading);
+}
+
+/* Code (unlikely but just in case) */
+.markdown-body code {
+  background-color: #f0ebe4;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+}
