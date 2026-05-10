@@ -6,3 +6,5 @@ plugins:
 # Basics
 title: Barbara Cervone
 description: Personal website of Barbara Cervone
+url: https://barbaracervone.org
+baseurl: ""
