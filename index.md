@@ -15,5 +15,3 @@ Barbara Cervone is a lifelong leader in progressive education, advancing schools
 Dr. Cervone founded a network of more than 15 alternative high schools, coordinated Walter H. Annenberg's $1 billion Challenge to reform American public education, and later created [What Kids Can Do](https://www.whatkidscando.org), a national nonprofit dedicated to the value of young people's work and perspectives. Through its publishing arm, Next Generation Press, she produced more than 15 books with student co-authors. Her book *Fires in the Bathroom* (The New Press, 2003) was the best-selling teacher education book for two consecutive years.
 
 She holds a B.A., *summa cum laude*, from Radcliffe College and both an M.A.T. and Ed.D. from the Harvard Graduate School of Education. In 2008, she received the Purpose Prize from Civic Ventures for her contributions to elevating youth voice in education and community life.
-
----
