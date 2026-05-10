@@ -4,7 +4,6 @@ title: Work & Publications
 
 # Work & Publications
 
----
 
 ## Organizations
 
@@ -13,7 +12,6 @@ title: Work & Publications
 - **[How Youth Learn](https://www.howyouthlearn.org)** — Companion website to the "Students at the Center" research series, featuring papers on social-emotional learning, motivation, and personalization.
 - **Alternative High School Network** (1970s) — Founded alternative schools in eight states across the United States.
 
----
 
 ## Books with Major Publishers
 
@@ -24,7 +22,6 @@ These books, produced through What Kids Can Do, were published by major educatio
 - *Fires in the Mind: What Kids Can Tell Us About Motivation and Mastery* — Kathleen Cushman. **Jossey-Bass**, 2012.
 - *Belonging and Becoming: The Power of Social and Emotional Learning in High Schools* — Barbara Cervone and Kathleen Cushman. **Harvard Education Press**, 2017.
 
----
 
 ## Next Generation Press Books
 
@@ -62,7 +59,6 @@ These books grew out of international media projects in which young people docum
 
 - *Postcards from the Rogue Valley* — A collection of stories and photos from the [blog](https://www.postcards-from-the-rogue-valley.blog/). **Next Generation Press**, 2021.
 
----
 
 ## Selected Articles and Book Chapters
 
@@ -99,7 +95,6 @@ These books grew out of international media projects in which young people docum
 - "A Guide to Creating Teen-Adult Conversations in Your Community" — With MetLife Foundation, 2005.
 - "Cultural Conversations Through Creative Writing: A Mini-Curriculum for Teachers" — What Kids Can Do, 2010.
 
----
 
 ## Press, Media & Recognition
 
@@ -110,13 +105,11 @@ These books grew out of international media projects in which young people docum
 - What Kids Can Do generated **over 250 articles** in local and national newspapers, from *The New York Times* to the *Sacramento Bee*, along with radio appearances across the country featuring youth collaborators.
 - Next Generation Press books were reviewed in the *Los Angeles Times*, *Teachers College Record*, *News Photographer*, and other national publications.
 
----
 
 ## Speaking
 
 Dr. Cervone has spoken widely at education conferences across the United States on topics including youth engagement, school reform, student-centered learning, and first-generation college access.
 
----
 
 ## Education
 

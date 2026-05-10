@@ -6,13 +6,11 @@ title: Progressive Education
 
 *Centering student voice, real-world learning, and strong relationships.*
 
----
 
 ## Introduction
 
 Between 1970 and 2020, a reimagined wave of progressive education reshaped pockets of American public schooling. Often borrowing from — but also revising — John Dewey's foundational philosophies, educators in this period sought small, community-embedded schools centered on relationships, democratic governance, and experiential learning. Although this movement was never monolithic, its collective impact on pedagogy, institutional structures, and educator networks is undeniable.
 
----
 
 ## Philosophical and Historical Roots
 
@@ -24,7 +22,6 @@ The intellectual lineage of progressive schools extends back to the late 19th an
 
 By the 1960s, the Civil Rights Movement and countercultural currents fueled renewed interest in schools as sites of social transformation. Grassroots "freedom schools" emerged in the South, while experimental "free schools" appeared in multiple regions. Though many were short-lived, they provided the seeds for a new generation of public-school innovators.
 
----
 
 ## A New Progressive Wave: 1970–1979
 
@@ -36,7 +33,6 @@ The 1970s marked a dynamic period for rethinking American public schools. Disill
 
 These locally driven and teacher-led reforms formed the nucleus of a larger movement that would champion democratic governance, relationship-building, and experiential learning.
 
----
 
 ## Core Principles
 
@@ -60,7 +56,6 @@ Progressive schools moved away from memorization and standardized testing, favor
 
 While some early progressive schools served predominantly white, middle-class populations, by the 1980s and 1990s there was a deliberate shift toward serving marginalized communities — emphasizing culturally responsive curricula, addressing power and privilege in the classroom, and developing leadership pathways for educators of color.
 
----
 
 ## Thought Leaders
 
@@ -83,7 +78,6 @@ In the 1990s, Dennis Littky (with Elliot Washor) co-founded The Met School in Pr
 - **Michelle Fine**: Researcher focusing on participatory action with urban youth, centering equity and student voice.
 - **Michael Klonsky**: Led the Small Schools Workshop in Chicago, guiding the conversion of large high schools into more intimate units.
 
----
 
 ## Case Studies
 
@@ -109,7 +103,6 @@ Another Meier-led initiative featuring child-centered inquiry with thematic unit
 - **High Tech High (San Diego)**: Founded in 2000, melding project-based learning, design thinking, and teacher leadership.
 - **Internationals Network**: Small, innovative schools for newly arrived immigrants, infusing project-based, real-world learning.
 
----
 
 ## Networks and Institutions
 
@@ -135,13 +128,11 @@ Grants from Annenberg, Gates, and other foundations empowered schools to pilot s
 - **New Visions for Public Schools (NYC)**: Incubated new small schools and facilitated collaboration.
 - **National Writing Project**: Supported teacher leadership and student voice.
 
----
 
 ## The Golden Era (1990s–Early 2000s)
 
 Between 1990 and the early 2000s, philanthropic interest and grassroots energy coalesced. Urban districts with high dropout rates looked to innovative, small-school models for solutions. The CES Fall Forum drew thousands of educators, and widely publicized successes — like Central Park East and The Met — helped shift public perception of progressive methods from "alternative" to viable.
 
----
 
 ## Challenges and Evolution
 
@@ -150,7 +141,6 @@ Between 1990 and the early 2000s, philanthropic interest and grassroots energy c
 - **Equity and Inclusivity**: Early iterations were criticized for insufficient attention to racial justice. Over time, more educators of color emerged as leaders.
 - **Competing Reform Trends**: Growth of charter schools and corporate-driven reforms overshadowed progressive approaches, though some charters embraced progressive designs.
 
----
 
 ## Lasting Impact
 
@@ -163,7 +153,6 @@ Even as the "golden era" waned in the late 2000s, the movement left an indelible
 
 From its early 1970s roots in small, radical experiments to its nationwide expansions in the 1990s and early 2000s, the modern progressive schools movement profoundly influenced how Americans think about teaching and learning. Its core pedagogical ideals — relationships, personalization, experiential inquiry — remain deeply relevant, a living blueprint for educators and communities committed to more caring, rigorous, and equitable learning environments.
 
----
 
 ### Further Reading
 
