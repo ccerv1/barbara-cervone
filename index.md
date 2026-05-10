@@ -4,7 +4,7 @@ title: Barbara Cervone
 
 # Barbara Cervone
 
-<img src="assets/img/barbara-cervone.JPG" alt="Barbara Cervone" width="240" style="float: right; margin: 0 0 1em 1.5em; border-radius: 4px;" />
+<img src="assets/img/barbara-cervone.JPG" alt="Barbara Cervone" width="120" style="float: right; margin: 0 0 1em 1.5em; border-radius: 50%;" />
 
 Barbara Cervone is a lifelong leader in progressive education, advancing schools where students are deeply known, actively engaged, and treated as creators of knowledge rather than passive recipients. Through her work founding schools, directing large-scale reform efforts, and publishing books co-authored with students, she has spent five decades elevating youth voice and reimagining what learning can look like.
 
