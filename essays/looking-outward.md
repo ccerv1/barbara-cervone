@@ -15,7 +15,16 @@ But what does it speak of - what are its hopes? Is youth foolish in devoting so 
 
 Our involvement in America's present seems to stem, first, from a belief in the ideal of the dignity and worth of every man. Perhaps the civil rights movement, as much as anything else, has awakened the social conscience of our generation. Because none of us are completely independent, to become involved in and to care about the plight of others is part of living. Realizing this, youth does not just speak for itself, but of the other man, and all men, as well. The brotherhood of mankind is more than a simple cliche. The sufferings of Negroes in Alabama or of flood victims in Northern California concern all of us. Just because we are not directly involved, we cannot turn our back on their need.
 
-Secondly, we recognize the power of each individual to make a significant contribution to society. As Everett Hale wrote: "I am only one | But still I am one. | I cannot do everything | But still I can do something. | And because I cannot do everything | I will not refuse to do the something I can do." It is this belief that has motivated young people to form political groups, to provide aid to needy persons in the community, to take an active interest in the civil rights movement, or even to help build roads and bridges in economically backward nations. Although each of us is only one, together our generation has a stake in the present.
+Secondly, we recognize the power of each individual to make a significant contribution to society. As Everett Hale wrote: 
+
+>I am only one <br>
+But still I am one. <br>
+I cannot do everything <br>
+But still I can do something. <br>
+And because I cannot do everything <br>
+I will not refuse to do the something I can do. <br>
+
+It is this belief that has motivated young people to form political groups, to provide aid to needy persons in the community, to take an active interest in the civil rights movement, or even to help build roads and bridges in economically backward nations. Although each of us is only one, together our generation has a stake in the present.
 
 Nevertheless, our greatest claim lies in the future. As a result of our education, in the coming years we, America's young, will be the pacesetters for political and social progress - it is an inescapable responsibility. And needless to say, it will be in the fields of war and peace, poverty and affluence, oppression and equality, and rights and duties that we will work and strive. It may be that our pace will be slow, we will forward no new ideas, dream no dreams. We cannot make any promises. Yet on the other hand, we may bring our "exalted hopes" into being, and take not one, but many steps forward. Perhaps, through our continuous efforts, such vital issues as the battle for civil rights or the threat of nuclear holocaust will be no more than past history.
 
