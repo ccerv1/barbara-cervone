@@ -17,5 +17,3 @@ Dr. Cervone founded a network of more than 15 alternative high schools, coordina
 She holds a B.A., *summa cum laude*, from Radcliffe College and both an M.A.T. and Ed.D. from the Harvard Graduate School of Education. In 2008, she received the Purpose Prize from Civic Ventures for her contributions to elevating youth voice in education and community life.
 
 ---
-
-[Progressive Education](progressive-education/) &nbsp;&middot;&nbsp; [Essays & Speeches](essays/) &nbsp;&middot;&nbsp; [Work & Publications](work/)
