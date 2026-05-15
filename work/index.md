@@ -115,9 +115,3 @@ These books grew out of international media projects in which young people docum
 - ["This is my place": middle schoolers on social and emotional learning](https://www.youtube.com/watch?v=Wqj3_8raIHw) (2013). In this audio slideshow, middle schoolers at School of the Future in New York City give their own examples of how everyday interactions between students, peers, and adults affect how they learn in the classroom.
 - ["Just Listen"](https://www.whatkidscando.org/featurestories/2011/intro_just_listen/index_intro.html) — Over 200 short video clips in which high school students speak directly to viewers about teaching and learning — from the teacher-student relationship to how schools help kids become adults.
 - "Boto Village, Ethiopia" (2013). Video documenting the youth photo essay project in Ethiopia.
-
-## Education
-
-- **Ed.D.**, Harvard Graduate School of Education. Dissertation: *Rounding up the children: compulsory education enforcement in Providence, Rhode Island, 1883–1935* (1983).
-- **M.A.T.**, Harvard Graduate School of Education
-- **B.A., *summa cum laude***, Radcliffe College
