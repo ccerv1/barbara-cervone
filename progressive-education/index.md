@@ -1,5 +1,9 @@
 ---
-title: Progressive Education
+title: "Progressive Education: A Personal Perspective — Barbara Cervone"
+description: >-
+  A first-person account of the progressive education movement from the 1970s
+  to today — its leaders, schools, networks, and enduring ideals — by educator
+  and author Barbara Cervone.
 ---
 
 # Progressive Education: A Personal Perspective

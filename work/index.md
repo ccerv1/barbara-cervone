@@ -1,5 +1,9 @@
 ---
-title: Work & Publications
+title: "Work & Publications — Barbara Cervone"
+description: >-
+  A complete bibliography of Barbara Cervone's work — from the Annenberg
+  Challenge and What Kids Can Do to books, articles, reports, and media
+  spanning five decades in education.
 ---
 
 # Work and Publications

@@ -2,9 +2,34 @@
 remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Basics
 title: Barbara Cervone
-description: Personal website of Barbara Cervone
+description: >-
+  Personal website of Barbara Cervone — educator, author, and founder of
+  What Kids Can Do. Five decades advancing progressive education, youth voice,
+  and student-centered learning in America.
 url: https://barbaracervone.org
 baseurl: ""
+lang: en
+
+# SEO / social
+author:
+  name: Barbara Cervone
+  url: https://barbaracervone.org
+
+social:
+  name: Barbara Cervone
+  links:
+    - https://www.whatkidscando.org
+    - https://www.postcards-from-the-rogue-valley.blog/
+
+logo: /assets/img/barbara-cervone.JPG
+
+# Default page metadata
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/barbara-cervone.JPG

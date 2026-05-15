@@ -1,5 +1,9 @@
 ---
 title: Barbara Cervone
+description: >-
+  Barbara Cervone is a lifelong supporter of progressive education, founder of
+  What Kids Can Do, and coordinator of the Annenberg Challenge. Five decades
+  elevating youth voice and reimagining learning.
 ---
 
 # Barbara Cervone

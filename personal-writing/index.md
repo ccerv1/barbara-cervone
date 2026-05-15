@@ -1,5 +1,8 @@
 ---
-title: Personal Writing
+title: "Personal Writing — Barbara Cervone"
+description: >-
+  Personal essays and reflections by Barbara Cervone on nature, community,
+  education, and life in Southern Oregon.
 ---
 
 # Personal Writing
