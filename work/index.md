@@ -14,8 +14,9 @@ description: >-
 - **Alternative High School Network** (1975–1978) — Founded alternative schools in eight states across the United States, modelled after the Providence Alternate Learning Project.
 - **Youth Grant in the Humanities** (1979–1981) — Received a two-year fellowship from the National Endowment for the Humanities to study the rise of compulsory education and its impacts in Rhode Island from 1890–1980.
 - **Rhode Island College** (1982–1983) — Special assistant to President David Sweet; helped "stand up" one of the first Honors Colleges in the country.
-- **Rhode Island Community Foundation** (1984–1992) — Served as Grant Officer and Associate Director. At the time, the Rhode Island Foundation was one of the ten largest community foundations in the country.
+- **[Rhode Island Foundation](https://rifoundation.org/)** (1984–1992) — Served as Grant Officer and Associate Director. At the time, the Rhode Island Foundation was one of the ten largest community foundations in the country.
 - **[Annenberg Challenge to the Nation](https://sunnylands.org/article/sunnylands-moment-walter-annenberg-announces-the-500-million-annenberg-challenge-for-american-k-12-public-school-system/)** (1994–2000) — Served as coordinator of the $500 million Annenberg Challenge, at the time the largest private grant to support public education in the nation's history. The grant was distributed across thirty-five states through eighteen locally designed challenge projects over a period of five years. Funds went to urban school districts in New York, Los Angeles, Philadelphia, Houston, Chicago, Boston, and the Bay Area, as well as rural districts in several states. Ultimately the challenge grant funds spread to 24,000 public schools, reaching more than 1.5 million students and 80,000 teachers. In response to Ambassador Annenberg's call for the U.S. education support, more than 1,600 businesses, foundations, colleges, universities, and individuals gave $600 million — more than matching the Annenberg Foundation's challenge.
+- **Harvard Graduate School of Education** (2000–2001) — Research on "place-based" education.
 - **[What Kids Can Do, Inc.](https://www.whatkidscando.org)** (2001–2016) — Founded the national nonprofit What Kids Can Do, dedicated to documenting and broadcasting youth voice and focusing on young people marginalized by poverty, race, and language. For fifteen years — with generous support from major foundations including the Bill & Melinda Gates Foundation, Lumina Foundation, MetLife Foundation, Hewlett Foundation, and Novo Foundation — WKCD launched hundreds of projects in large and small cities nationwide that supported students and teachers as allies in improving their schools and communities. Concurrently, WKCD produced a website with stories and student work that grew every six weeks, along with a raft of books and other publications. WKCD generated over 250 articles in local and national newspapers, from *The New York Times* to the *Sacramento Bee*, along with radio appearances across the country featuring youth collaborators. Next Generation Press books were reviewed in the *Los Angeles Times*, *Teachers College Record*, *News Photographer*, and other national publications. WKCD was also a founding member of Adobe Youth Voices, working with youth across the U.S. and six other countries.
 
 The WKCD "banner" also included:
@@ -26,8 +27,6 @@ The WKCD "banner" also included:
 - **[In Our Global Village](https://www.inourglobalvillage.org)** — An extension of the "In Our Village" photo essay series, inspiring 60+ student photo essay books created by teachers and students worldwide.
 
 ## Books with Major Publishers
-
-These books — produced through What Kids Can Do with the national education writer Kathleen Cushman — were published by major education presses and reached wide national audiences.
 
 - [*Belonging and Becoming: The Power of Social and Emotional Learning in High Schools*](https://www.hepg.org/hep-home/books/belonging-and-becoming) — Barbara Cervone and Kathleen Cushman. Harvard Education Press, 2015.
 - [*Fires in the Mind: What Kids Can Tell Us About Motivation and Mastery*](https://www.amazon.com/Fires-Mind-About-Motivation-Mastery/dp/1118160215) — Kathleen Cushman. Jossey-Bass, 2010.
@@ -47,8 +46,6 @@ These books — produced through What Kids Can Do with the national education wr
 
 ## Reports and White Papers
 
-- "Walter H. Annenberg's Challenge to the Nation: A Progress Report" — Barbara T. Cervone and Lisa Rowley. Annenberg Institute for School Reform, 1996.
-- "Walter H. Annenberg's Challenge to the Nation: A Progress Report" (updated) — Barbara T. Cervone and Lisa Rowley. Annenberg Institute for School Reform, 1998.
 - ["Citizens Changing Their Schools: A Midterm Report of the Annenberg Challenge"](https://eric.ed.gov/?id=ED447586) — Kathleen Cushman and Barbara Cervone. Annenberg Institute for School Reform, 1999.
 - ["Youth Acts, Community Impacts: Stories of Youth Engagement with Real Results"](https://eric.ed.gov/?id=ED503945) — Joel Tolman, Karen Pittman, Barbara Cervone, et al. Forum for Youth Investment, 2001. Funded by the Ford Foundation.
 - ["A Future That Works: First Person Accounts of Community Colleges That Change Lives"](https://eric.ed.gov/?id=ED474570) — Kathleen Cushman, Barbara Cervone, Lisa Rowley. Jobs for the Future / MetLife Foundation, 2003.
@@ -68,7 +65,7 @@ Supported by the Lumina Foundation for Education, this series elevated the exper
 ### Youth Voice and Student Life
 
 - [*What We Can't Tell You: Teenagers Talk to the Adults in Their Lives*](https://www.amazon.com/What-Cant-Tell-You-Teenagers/dp/0976270609) — Kathleen Cushman and the youth of WKCD. 2005.
-- *Sent to the Principal: Students Talk About Making High School Better* — Kathleen Cushman and the students of WKCD. 2005.
+- [*Sent to the Principal: Students Talk About Making High School Better*](https://www.amazon.com/Sent-Principal-Students-Making-Schools/dp/0976270617) — Kathleen Cushman and the students of WKCD. 2005.
 - [*Hip Deep: Opinion, Essays, and Vision from American Teenagers*](https://www.amazon.com/Hip-Deep-Opinion-American-Teenagers/dp/0976270625) — Edited by Abe Louise Young with the youth board of Next Generation Press. 2006.
 - [*Forty-Cent Tip: Stories of New York City Immigrant Workers*](https://www.amazon.com/Forty-Cent-Tip-Stories-Immigrant-Workers/dp/0976270641) — Students of three New York public International High Schools. Introduction by Marcelo M. Suarez-Orozco. 2006.
 - [*Pass It On: Interviews by Youth with Mentors That Matter*](https://www.amazon.com/Pass-Interviews-Youth-Mentors-Matter/dp/0976270684) — Students of WKCD, edited by Kathleen Cushman. 2008.
@@ -118,4 +115,4 @@ These books grew out of international media projects in which young people docum
 - ["How Youth Learn: Ned's GR8 8"](https://www.bing.com/videos/riverview/relatedvideo?q=ned%27s+great+8&PC=APMC&ru=%2fsearch%3fq%3dned%2527s%2bgreat%2b8%26form%3dAPMCS1%26PC%3dAPMC&mmscn=vwrc&mid=95179D510671CB000D4495179D510671CB000D44&FORM=WRVORC&ntb=1) (2012). In this funny and fast-paced 6-minute "NED talk," this hand-drawn adolescent brain — complete with backpack, zits, and a journal he keeps about school — knocks out eight powerful conditions of learning that can change everything for students from rural Vermont to New York City (where the owner of Ned's voice goes to high school).
 - ["This is my place": middle schoolers on social and emotional learning](https://www.youtube.com/watch?v=Wqj3_8raIHw) (2013). In this audio slideshow, middle schoolers at School of the Future in New York City give their own examples of how everyday interactions between students, peers, and adults affect how they learn in the classroom.
 - ["Just Listen"](https://www.whatkidscando.org/featurestories/2011/intro_just_listen/index_intro.html) — Over 200 short video clips in which high school students speak directly to viewers about teaching and learning — from the teacher-student relationship to how schools help kids become adults.
-- "Boto Village, Ethiopia" (2013). Video documenting the youth photo essay project in Ethiopia.
+- ["Boto Village, Ethiopia"](https://www.youtube.com/watch?v=isIL0l4mWHY) (2013). Video documenting the youth photo essay project in Ethiopia.
