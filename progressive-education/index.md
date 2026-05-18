@@ -8,11 +8,9 @@ description: >-
 
 # Progressive Education: A Personal Perspective
 
-For me, the progressive education movement has been the water in which I have swum for five decades: centering student voice, real-world learning, and strong relationships; prioritizing critical thinking, agency, and purpose over rote instruction. My career has traced the arc of this movement: founding alternative high schools in the 1970s, supporting school innovation through the Rhode Island Foundation in the 1980s, coordinating the largest private investment in American public education in the 1990s, and creating [What Kids Can Do](https://www.whatkidscando.org) to elevate youth voice in the 2000s.
+The progressive education movement has been the water in which I have swum for five decades: centering student voice, real-world learning, and strong relationships; prioritizing critical thinking, agency, and purpose over rote instruction. My career has traced the arc of this movement: founding alternative high schools in the 1970s, supporting school innovation through the Rhode Island Foundation in the 1980s, coordinating the largest private investment in American public education in the 1990s, and creating [What Kids Can Do](https://www.whatkidscando.org) to elevate youth voice in the 2000s.
 
 What follows are notes on the broader movement in which my work took shape.
-
-Why do I include these notes here? It's quite simple: I fear that the forces circumscribing public education in America today — from stripped-down curriculum to diversity bans — may be the death knell for progressive education and the student-centered, critical, and democratic thinking it prized. I want to mark its contours and accomplishments while I still can.
 
 For those interested in a deeper dive, I've included links throughout to sources with which I am most familiar.
 
