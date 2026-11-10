@@ -15,11 +15,12 @@ index.md                              # Home page (bio + photo)
 work/index.md                         # Work & Publications
 personal-writing/index.md             # Personal Writing (blog selections + essays)
 personal-writing/looking-outward.md   # "Looking Outward" (1965 Radcliffe speech)
-progressive-education/index.md        # Progressive Education: A Personal Chronicle
+progressive-education/index.md        # Progressive Education: A Second Wave (1970–2025)
 _layouts/default.html                 # Page layout with nav bar
 _config.yml                           # Site title and theme config
 assets/css/custom.css                 # Custom stylesheet (Lora + Source Sans 3)
 assets/img/barbara-cervone.JPG        # Profile photo
+assets/img/signature.png              # Signature (Progressive Education intro)
 ```
 
 ## Common updates
