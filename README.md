@@ -21,6 +21,8 @@ _config.yml                           # Site title and theme config
 assets/css/custom.css                 # Custom stylesheet (Lora + Source Sans 3)
 assets/img/barbara-cervone.JPG        # Profile photo
 assets/img/signature.png              # Signature (Progressive Education intro)
+assets/img/social-card.jpg            # 1200×630 preview image for link sharing
+robots.txt                            # Points search engines to /sitemap.xml
 ```
 
 ## Common updates

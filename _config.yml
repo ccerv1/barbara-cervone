@@ -3,11 +3,15 @@ remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Basics
 title: Barbara Cervone
-# No site-wide `description` on purpose: jekyll-seo-tag appends it to the
-# home page title ("Barbara Cervone | <description>"). Each page sets its own.
+# Deliberately empty: jekyll-seo-tag appends a site description to the home
+# page title ("Barbara Cervone | <description>"). It must be an empty string,
+# not absent, or GitHub Pages fills it in from the GitHub repo's "About" text.
+# Each page sets its own description in front matter.
+description: ""
 url: https://barbaracervone.org
 baseurl: ""
 lang: en
@@ -25,9 +29,16 @@ social:
 
 logo: /assets/img/barbara-cervone.JPG
 
+twitter:
+  card: summary_large_image
+
+# Keep repo docs out of the built site and the sitemap
+exclude:
+  - README.md
+
 # Default page metadata
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/barbara-cervone.JPG
+      image: /assets/img/social-card.jpg

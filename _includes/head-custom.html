@@ -1,3 +1,27 @@
 <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
-<meta property="og:image" content="{{ '/assets/img/barbara-cervone.JPG' | absolute_url }}" />
-<meta name="twitter:card" content="summary" />
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ '/' | absolute_url }}#person",
+  "name": "Barbara Cervone",
+  "url": "{{ '/' | absolute_url }}",
+  "image": "{{ '/assets/img/barbara-cervone.JPG' | absolute_url }}",
+  "description": "Educator, author, and founder of What Kids Can Do. Five decades advancing progressive education and youth voice.",
+  "jobTitle": "Educator and author",
+  "knowsAbout": ["Progressive education", "Youth voice", "School reform", "Student-centered learning"],
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Radcliffe College" },
+    { "@type": "CollegeOrUniversity", "name": "Harvard Graduate School of Education" }
+  ],
+  "award": "Purpose Prize, Civic Ventures (2008)",
+  "founder": { "@type": "Organization", "name": "What Kids Can Do", "url": "https://www.whatkidscando.org" },
+  "homeLocation": { "@type": "Place", "name": "Ashland, Oregon" },
+  "sameAs": [
+    "https://www.whatkidscando.org",
+    "https://www.postcards-from-the-rogue-valley.blog/"
+  ]
+}
+</script>
+{% endif %}
