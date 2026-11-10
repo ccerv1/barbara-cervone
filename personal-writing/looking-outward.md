@@ -1,5 +1,8 @@
 ---
 title: "Looking Outward"
+description: >-
+  "Looking Outward," a 1965 speech by Barbara Cervone (then Barbara Tucker) on
+  the idealism and voice of young people.
 ---
 
 # "LOOKING OUTWARD"

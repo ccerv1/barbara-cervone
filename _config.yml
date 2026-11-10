@@ -6,10 +6,8 @@ plugins:
 
 # Basics
 title: Barbara Cervone
-description: >-
-  Personal website of Barbara Cervone — educator, author, and founder of
-  What Kids Can Do. Five decades advancing progressive education, youth voice,
-  and student-centered learning in America.
+# No site-wide `description` on purpose: jekyll-seo-tag appends it to the
+# home page title ("Barbara Cervone | <description>"). Each page sets its own.
 url: https://barbaracervone.org
 baseurl: ""
 lang: en
